@@ -91,6 +91,8 @@ ai-agent-walkthrough/
 
 Contains the agent implementation.
 
+`math_agent.py` creates a `ChatOpenAI` instance and connects it to the available mathematical tools through LangChain's agent abstraction.
+
 
 
 
