@@ -15,3 +15,39 @@ The goal is to provide a simple and practical example for understanding how an L
 ## 🏗️ Architecture
 
 The project follows a simple agent architecture:
+
+```text
+                    ┌──────────────────┐
+                    │      User        │
+                    │    Question      │
+                    └────────┬─────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │   LangChain      │
+                    │      Agent       │
+                    └────────┬─────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │   OpenAI LLM     │
+                    │   Chat Model     │
+                    └────────┬─────────┘
+                             │
+                     Tool selection
+                             │
+                             ▼
+              ┌────────────────────────────┐
+              │       Math Tools           │
+              ├────────────────────────────┤
+              │  add                       │
+              │  multiply                  │
+              │  divide                    │
+              │  square_root               │
+              └─────────────┬──────────────┘
+                            │
+                            ▼
+                    ┌──────────────────┐
+                    │     Result       │
+                    └──────────────────┘
+```
