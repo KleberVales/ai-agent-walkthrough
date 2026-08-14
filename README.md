@@ -99,6 +99,13 @@ Contains the functions that the agent can invoke.
 
 The project currently provides:
 
+| Tool | Description |
+|---|---|
+| `add` | Adds two numbers |
+| `multiply` | Multiplies two numbers |
+| `divide` | Divides one number by another |
+| `square_root` | Calculates the square root of a number |
+
 
 
 
