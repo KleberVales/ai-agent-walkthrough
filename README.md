@@ -127,6 +127,17 @@ Provides the application entry point and sends a series of mathematical question
 
 ---
 
+## 🛠️ Technologies
+
+- [Python](https://www.python.org/)
+- [LangChain](https://www.langchain.com/)
+- [LangChain OpenAI](https://python.langchain.com/)
+- [OpenAI](https://openai.com/)
+- [python-dotenv](https://pypi.org/project/python-dotenv/)
+- [pytest](https://pytest.org/)
+
+---
+
 
 
 
