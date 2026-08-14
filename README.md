@@ -56,6 +56,8 @@ The agent is created using LangChain's `create_agent`, receives a `ChatOpenAI` m
 
 ---
 
+## 📂 Project Structure
+
 
 
 
