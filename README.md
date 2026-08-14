@@ -9,3 +9,5 @@ The project shows the fundamental building blocks of an AI agent:
 - 🔄 Agent loop — LangChain orchestrates the interaction between the model and tools
 - ⚙️ Configuration — Environment variables loaded with python-dotenv
 - 🧪 Testing — Mathematical tools covered with pytest
+
+The goal is to provide a simple and practical example for understanding how an LLM can use external tools to solve problems.
