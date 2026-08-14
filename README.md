@@ -7,3 +7,4 @@ The project shows the fundamental building blocks of an AI agent:
 - 🧠 LLM — OpenAI chat model
 - 🛠️ Tools — Mathematical functions exposed to the agent
 - 🔄 Agent loop — LangChain orchestrates the interaction between the model and tools
+- ⚙️ Configuration — Environment variables loaded with python-dotenv
