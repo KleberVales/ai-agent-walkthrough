@@ -108,6 +108,12 @@ The project currently provides:
 
 The division tool prevents division by zero, while the square-root tool rejects negative numbers.
 
+### `src/config`
+
+Contains application configuration loaded from environment variables.
+
+The project reads:
+
 
 
 
