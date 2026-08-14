@@ -13,3 +13,5 @@ The project shows the fundamental building blocks of an AI agent:
 The goal is to provide a simple and practical example for understanding how an LLM can use external tools to solve problems.
 
 ## 🏗️ Architecture
+
+The project follows a simple agent architecture:
