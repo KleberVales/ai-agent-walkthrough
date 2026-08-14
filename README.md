@@ -51,3 +51,11 @@ The project follows a simple agent architecture:
                     │     Result       │
                     └──────────────────┘
 ```
+
+The agent is created using LangChain's `create_agent`, receives a `ChatOpenAI` model, and is given the mathematical tools as its available tool set.
+
+---
+
+
+
+
