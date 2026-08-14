@@ -119,6 +119,14 @@ OPENAI_API_KEY
 MODEL_NAME
 ```
 
+If `MODEL_NAME` is not defined, the application defaults to `gpt-5.5`.
+
+### `src/main.py`
+
+Provides the application entry point and sends a series of mathematical questions to the agent.
+
+---
+
 
 
 
