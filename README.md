@@ -114,6 +114,11 @@ Contains application configuration loaded from environment variables.
 
 The project reads:
 
+```text
+OPENAI_API_KEY
+MODEL_NAME
+```
+
 
 
 
