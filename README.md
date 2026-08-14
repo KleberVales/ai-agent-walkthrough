@@ -106,6 +106,8 @@ The project currently provides:
 | `divide` | Divides one number by another |
 | `square_root` | Calculates the square root of a number |
 
+The division tool prevents division by zero, while the square-root tool rejects negative numbers.
+
 
 
 
