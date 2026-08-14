@@ -58,6 +58,35 @@ The agent is created using LangChain's `create_agent`, receives a `ChatOpenAI` m
 
 ## 📂 Project Structure
 
+```text
+ai-agent-walkthrough/
+│
+├── src/
+│   ├── agents/
+│   │   ├── __init__.py
+│   │   └── math_agent.py
+│   │
+│   ├── config/
+│   │   ├── __init__.py
+│   │   └── settings.py
+│   │
+│   ├── tools/
+│   │   ├── __init__.py
+│   │   └── math_tools.py
+│   │
+│   └── main.py
+│
+├── tests/
+│   ├── __init__.py
+│   ├── requirements.py
+│   └── test_math_agent.py
+│
+├── .env
+├── pyproject.toml
+├── requirements.txt
+└── README.md
+```
+
 
 
 
