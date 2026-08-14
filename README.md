@@ -95,6 +95,10 @@ Contains the agent implementation.
 
 ### `src/tools`
 
+Contains the functions that the agent can invoke.
+
+The project currently provides:
+
 
 
 
